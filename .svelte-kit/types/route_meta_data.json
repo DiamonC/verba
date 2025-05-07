@@ -1,0 +1,12 @@
+{
+	"/": [],
+	"/api/openai/chat": [
+		"src/routes/api/openai/chat/+server.js"
+	],
+	"/api/openai/speech": [
+		"src/routes/api/openai/speech/+server.js"
+	],
+	"/lesson/[id]": [
+		"src/routes/lesson/[id]/+page.server.js"
+	]
+}
